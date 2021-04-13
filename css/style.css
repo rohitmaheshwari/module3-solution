@@ -1,0 +1,60 @@
+* { /*apply to every element*/
+	box-sizing: border-box;
+    /* margin: 0; */
+    /* padding: 0; */
+}
+
+ /* .row {
+	width: 100%;
+}  */
+
+/* .navbar {
+    width: 100%;
+} */
+
+.container {
+    margin: 0;
+    max-width: 100%;
+}
+
+h1 {
+	/* text-align: center; */
+    margin: 1% 0% 3% 0%;
+}
+
+p {
+	color: maroon;
+	/* clear: left; */
+	font-family: sans-serif;
+	font-size: 110%;
+	padding-left: 1.5%;
+	padding-right: 1.5%;
+	padding-top: 15px;
+	width: 100%;
+	/* overflow: hidden; */
+}
+
+section {
+	border: 1px solid;
+    margin: 1.5% 1.5% 1.5% 1.5%;
+	background-color: grey;
+	/* margin-right: auto;
+	margin-left: auto; */
+}
+
+section > h3 {
+	text-align: center;
+	background-color: red;
+}	
+
+#m1 {
+	background-color: lightblue;
+}
+
+#m2 {
+	background-color: pink;
+}
+
+#m3 {
+	background-color: yellow;
+}
